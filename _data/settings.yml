@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Nomod
-description: Nomod is a multipurpose Jekyll blog theme
+title: Tech Horizons
+description: Where Innovation Meets Leadership
 logo: # You can add own logo. For example "/images/logo.png".
 logo_dark:
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -15,16 +15,14 @@ menu_settings:
       url: "/"
     - title: "Latest"
       url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
+#     - title: "Authors"
+#       url: "/authors/"
     - title: "Resources"
       submenu:
       - url: "/videos/"
         title: "Videos"
       - url: "/featured/"
         title: "Featured"
-      - url: "/elements/"
-        title: "Elements"
       - url: "/tags/"
         title: "Topics"
     - title: "About"
@@ -41,12 +39,12 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Stories, Journeys, and Ideas for the Creatively Curious
-  hero_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
+  hero_title: Stories for Engineers, Builders and Leaders
+  hero_description: Explore the world of technology and leadership with insights that inspire action. Whether you're building systems, leading teams, or shaping strategy, find stories and ideas that fuel growth and innovation.
 
-hero_authors:
-  enable: true
-  hero_authors_description: Meet our talented team
+# hero_authors:
+#   enable: true
+#   hero_authors_description: Meet our talented team
 
 
 #-------------------------------
@@ -68,15 +66,15 @@ recommended:
 # About Section Settings
 about:
   enable: true
-  about_title: Hello, I’m Giana
-  about_subtitle: I’m a thinker and storyteller with a passion for exploring the intersection of creativity and technology
+  about_title: From the Trenches to the Boardroom
+  about_subtitle: A Journey Through Code, Leadership, and Resilience
   about_description: |
-    Giana Franci’s mission is rooted in the belief that creativity is a catalyst for connection and change. Through her blog, she seeks to bridge the gap between design, technology, and lifestyle, offering a space where ideas can flourish and innovation can thrive.
-
-    It’s a journey through the thoughts and experiences that shape her world. Giana’s work is driven by a desire to challenge the ordinary and to push the boundaries of what’s possible. She sees every project as an opportunity to learn, grow, and inspire others to do the same. This blog is more than just a collection of posts.
+    I’ve worn many hats in my career—from Software Engineer to Backend Developer, DevOps Specialist, CTO, and even CEO. Along the way, I’ve faced countless challenges, navigated tough decisions, and learned from my fair share of mistakes.
+    
+    This blog is my space to share the lessons I’ve gained, the stories that shaped me, and the insights I hope will inspire and guide others in their own journeys. Whether you’re just starting out or already leading the charge, I believe we all grow through shared experience.
   about_image: "/images/01.jpg"
-  about_image_alt: Daryl Mercer
-  about_button_text: Meet our team
+  about_image_alt: Hansson Mattias
+  about_button_text: Behind the Blog
   about_button_link: "/about/"
 
 
@@ -84,27 +82,22 @@ about:
 # Authors Section Settings
 authors:
   enable: true
-  authors_title: Top authors
+  authors_title: Author
 
 
 #-------------------------------
 # Newsletter Settings
-mailchimp:
-  enable: true
-  mailchimp_title: Stay Inspired Weekly. Your Friendly Dose of Tips & Insights!
-  mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
-  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-  mailchimp_input_text: Your email address
-  mailchimp_button_text: Subscribe
+
 
 
 #-------------------------------
 # Footer Settings
-footer_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
+footer_description: Join me on a journey of sharing thoughts and meaningful discussions. This blog is a space for open dialogue and honest conversations.
 
 
 # Social Links
 social:
+- {icon: "fa-brands fa-linkedin", name: "Linkedin", link: "https://www.linkedin.com"}
 - {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
 - {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://www.tiktok.com"}
@@ -119,9 +112,9 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  form_id: your@email.com # Add your form_id
+  form_id: xnnnrype # Add your form_id
   title: Contact Us
-  description: Nomod comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free.
+  description: Whether you have questions, feedback, or ideas to share, we're all ears! We value meaningful connections and are committed to responding thoughtfully to every message. Don't hesitate to get in touch!
   button_text: Send now
 
 # NOTE

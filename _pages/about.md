@@ -1,40 +1,58 @@
 ---
 layout: page
-title: About Us
-description: We believe that great ideas are born from collaboration, and we are dedicated to fostering a culture of openness and creativity. Every member of our team brings a unique perspective, and together, we are constantly learning, growing, and evolving.
+title: Behind the Blog
+description: Dive into the unexpected journey of a lifelong storyteller turned programmer. This blog blends humor, honesty, and heartfelt reflections on navigating challenges, rediscovering passions, and building connections. Join the adventure and share in a space where ambition meets authenticity.
 permalink: /about/
-image: '/images/17.jpg'
-image_caption: The beginning of a new wonderful day
+image: '/images/BehindBlog.jpg'
+image_caption: Why I Write
 ---
 
-At the heart of our journey lies a deep commitment to innovation, creativity, and community. We are a collective of designers, thinkers, and storytellers who believe in the power of ideas to shape the future. Our mission is to create a space where imagination meets reality, where technology and design come together to craft experiences that inspire and connect. We approach every project with curiosity and passion, striving to push boundaries and challenge the status quo.
+### The Unexpected Start
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+Growing up, I was the kid who always had a sketchbook in one hand and a book in the other, completely absorbed in my own creative world. Technology? That was for someone else. Coding? It felt as foreign to me as speaking to an alien in binary. But life, in its infinite humor, had other plans. Before I knew it, I was neck-deep in the world of programming, constantly wondering, "Is this really for me?"
 
-Our team is driven by a shared vision—to make a meaningful impact through our work. Whether it's through thoughtful design, cutting-edge technology, or engaging content, we aim to create something that resonates with people on a deeper level. We believe that great ideas are born from collaboration, and we are dedicated to fostering a culture of openness and creativity.
+![Workspqce]({{site.baseurl}}/images/About10.jpg)
 
-Every member of our team brings a unique perspective, and together, we are constantly learning, growing, and evolving.
+### A Spark of Innovation
 
-![Team]({{site.baseurl}}/images/17-1.jpg#wide)
-*Before launching the project*
+Even with doubts swirling around, I discovered something undeniable—a love for problem-solving and innovation. Step by step, I started building a career. Sure, I didn’t make headlines, but the quiet satisfaction of earning my colleagues' respect and achieving personal milestones was enough to keep me going.
 
-At the core of our mission lies a deep-seated belief in the transformative power of creativity and innovation. We are a dynamic collective of designers, thinkers, and visionaries, each bringing a unique perspective to the table, united by a common purpose: to create meaningful and impactful experiences that resonate with people across the globe.
+![Workspqce]({{site.baseurl}}/images/About20.jpg)
 
-Our journey is one of relentless exploration, where every challenge is seen as an opportunity to push boundaries and redefine what's possible.
+### Lessons from Challenges
 
-We approach every project with a blend of curiosity, passion, and expertise, committed to crafting solutions that not only meet the needs of today but also anticipate the demands of tomorrow. Our work spans the intersection of design and technology, where we strive to create products and experiences that are not only functional but also deeply engaging and visually compelling. We believe in the importance of storytelling, using our skills to weave narratives that connect, inspire, and provoke thought.
+It wasn’t all smooth sailing. There were plenty of moments where a single line of code brought everything crashing down, and days where I wondered if I’d made the right choices. Moving from debugging my own scripts to leading teams and even starting small ventures taught me resilience. It wasn’t glamorous, but each experience added a layer of wisdom.
+
+![Workspqce]({{site.baseurl}}/images/About30.jpg)
+
+### Returning to Writing
+
+Through it all, one constant remained—my love for words. As a kid, I was the chatterbox who loved spinning stories, and that hasn’t changed. It felt natural to channel this passion into something meaningful, and so this blog was born. My aim? To share, connect, and maybe, just maybe, inspire a laugh or two along the way.
+
+![Workspqce]({{site.baseurl}}/images/About40.jpg)
+
+### What This Blog is About
+
+Here’s what you can expect: stories of ambitions that didn’t quite hit the mark, reflections on leaders who light the way, and everyday musings that might resonate with your own experiences. This blog is for everyone who’s looking for a mix of humor, honesty, and heart.
+
+### Why I Need You
+
+I won’t sugarcoat it—I’m busy. Writing these posts means juggling my time and squeezing words out between commitments. That’s why your input is invaluable. Suggestions, critiques, or even a simple, "Hey, this made me smile!" can be the push that keeps this space thriving. After all, this isn’t just my blog; it’s ours.
+
+### Let’s Do This Together
 
 <div class="gallery-box">
-  <div class="gallery gallery-column-3">
-    <img src="/images/17-2.jpg" loading="lazy">
-    <img src="/images/17-4.jpg" loading="lazy">
-    <img src="/images/17-3.jpg" loading="lazy">
+  <div class="gallery">
+    <img src="/images/emotion_happy.jpg" loading="lazy">
+    <img src="/images/emotion_sad.jpg" loading="lazy">
+    <img src="/images/emotion_angry.jpg" loading="lazy">
+    <img src="/images/emotion_love.jpg" loading="lazy">
   </div>
-  <em>Collaborative work session</em>
 </div>
 
-Collaboration is at the heart of what we do. We are a team that thrives on diversity, valuing the different ideas and insights that each member brings. This culture of openness and creativity allows us to innovate continually, to challenge conventional thinking, and to bring fresh perspectives to every project. We are not just a team; we are a community of like-minded individuals driven by a shared vision of making a positive impact through our work.
+So, here’s my invitation to you: join me on this journey. Stop by when you can, leave a comment, or just share what’s on your mind. This is more than a blog; it’s a space to build something meaningful together. Your voice will make all the difference.
 
-As we navigate the ever-evolving landscape of our industry, we remain steadfast in our commitment to excellence, integrity, and innovation. We understand that the world is constantly changing, and we are dedicated to staying ahead of the curve, embracing new technologies and methodologies to deliver solutions that are both cutting-edge and sustainable. Our journey is one of continuous learning and growth, and we are excited to share it with you.
+{: .q-left }
+> Thank you for being here and for sharing a moment of your time. Let’s take this adventure one step at a time. Welcome aboard!
 
-***
+

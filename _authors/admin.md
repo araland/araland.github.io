@@ -1,15 +1,15 @@
 ---
 username: admin
-name: Giana Franci
-image: '/images/100.jpg'
+name: Hansson Mattias
+image: '/images/hansson.jpg'
 location: London
 website:
-facebook: https://www.facebook.com
-twitter: https://twitter.com
-instagram: https://www.instagram.com
+facebook:
+twitter:
+instagram:
 pinterest:
 mastodon:
 youtube:
 tiktok:
 ---
-We live our lives through stories. I enjoy listening to a good story, and I take pride in crafting someone else’s.
+I think our world today is all about finding the right balance between working together and healthy competition. I really value open conversations and teamwork, and I always try to communicate well and listen carefully to others' thoughts and advice.
