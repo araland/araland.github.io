@@ -30,7 +30,7 @@ But then, as life does, it threw me a curveball: not everyone has a role model. 
 
 One day, I asked a friend,
 
-({{site.baseurl}}/images/Conversation.jpg)
+![Conversation]({{site.baseurl}}/images/Conversation.jpg)
 
 	Me: "So, who’s your role model?"
 	Friend: "I don’t have one. I just do my thing."
